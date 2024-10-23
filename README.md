@@ -1,3 +1,5 @@
+# !!! STILL NEED TO ADD README CONTENTS FOR OTHER 2 SCRIPTS. 1 OF THEM CONVERTS THE EPHEMERIS FILE FROM .xxn to a .bin file. the other one simply loops this to the sdr. 
+
 # Ephemeris Downloader
 ## Overview
 The Ephemeris Downloader is a Python script that allows users to download GNSS ephemeris files from NASA's CDDIS archive. The script provides options to download specific files based on the current date, past dates, or a batch of files for a specified number of days. Additionally, users can delete specific files as needed.
